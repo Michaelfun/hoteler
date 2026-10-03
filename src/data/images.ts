@@ -16,7 +16,7 @@ export const IMAGES = {
   },
   experience: {
     layer1: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
-    layer2: "https://images.unsplash.com/photo-1551882547-ff40c0d13c11?auto=format&fit=crop&w=800&q=80",
+    layer2: "https://images.unsplash.com/photo-1549294413-26f195200c16?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   videoPoster: "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=1920&q=80",
   team: [
